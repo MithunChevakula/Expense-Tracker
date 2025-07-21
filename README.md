@@ -1,0 +1,1 @@
+I developed a responsive Expense Tracker using HTML, CSS, JavaScript, and Bootstrap. It enables users to add, delete, and categorize transactions as income or expense. The application dynamically calculates total income, total expense, and real-time balance. The interface is clean, interactive, and user-friendly, making personal budgeting simple and effective.
